@@ -1,4 +1,4 @@
-# Fundamentals of Programming Languages
+# Fundamentals of Programming Languages (Projects)
 Welcome to the Fundamentals of Programming Languages repository! This repository contains all the code examples from the course taken at The University of Arizona Global Campus. The course is designed to introduce students to the basics of computer programming using Python.
 ## Course Description
 The Fundamentals of Programming Languages course covers a range of topics related to computer programming. Students will learn about primitive data types, expressions, control statements, functions, and arrays. The course uses Python, a high-level, general-purpose, interpreted, and dynamic programming language.
