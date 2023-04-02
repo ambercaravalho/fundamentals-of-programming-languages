@@ -1,1 +1,1 @@
-# fundamentals-of-programming-languages
+# Fundamentals of Programming Languages
